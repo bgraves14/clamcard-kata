@@ -1,7 +1,5 @@
 class ClamCard
 
-  # ZONE_A_STATIONS = ['Asterisk', 'Antelope', 'Aldgate', 'Angel', 'Aardvark']
-
   ZONE_B_STATIONS = ['Barbican', 'Balham', 'Bullhead', 'Bugel', 'Bison']
 
   attr_reader :total_price
